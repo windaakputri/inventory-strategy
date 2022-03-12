@@ -1,6 +1,6 @@
 # Model Development of Joint Inventory Strategy for Multi-temperature Perishable Products in Vendor Managed Inventory (VMI) System
 
-In Vendor Managed Inventory (VMI) system, it is very important for the vendor to determine replenishment cycle time in order to maximized the profit. In this project, VMI model in which manufacturing vendor determine how to managed inventory from finished product at retailer, finished product at vendor and raw material at vendor will be discussed. There are two kind of subjects which are discussed in this paper, fast deteroriating raw materials and finished product with slower deterioration.
+In Vendor Managed Inventory (VMI) system, it is very important for the vendor to determine replenishment cycle time in order to maximized the profit. In this research, VMI model in which manufacturing vendor determine how to managed inventory from finished product at retailer, finished product at vendor and raw material at vendor will be discussed. There are two kind of subjects which are discussed in this reserach, fast deteroriating raw materials and finished product with slower deterioration.
 
 Decision variables of the model are:
 - Cold storage temperature
